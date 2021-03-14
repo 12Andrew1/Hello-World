@@ -1,1 +1,1 @@
-here is a wiki file
+here is a wiki file with some words
